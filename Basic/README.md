@@ -1,7 +1,10 @@
+
 # Python basics
+
 Let use write some scripts the requires to know the basic of python
 
 ## Script 1 : print_data.py
+
 Write a Python program to print the following Output : 
 
 Twinkle, twinkle, little star,
@@ -11,5 +14,11 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
-## Script  : print_pwd.py
+## Script 2 : print_pwd.py
+
 Write a Python program to print the name of the working directory and what it contains
+
+## Script 3 : print_current_data_time.py
+
+Write a Python program to display the current date and time.
+
