@@ -11,3 +11,5 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are
 
+## Script  : print_pwd.py
+Write a Python program to print the name of the working directory and what it contains
