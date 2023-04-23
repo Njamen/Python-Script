@@ -29,3 +29,8 @@ Redirect the output of help function to a variable
 ### Script 5 : month_calenda.py
 
 Python program that prints the calendar for a given month and year.
+
+### Script 6 : diffenre_type_date.py
+
+Python program that difference between  data type of date.
+
