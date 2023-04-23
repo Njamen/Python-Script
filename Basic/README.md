@@ -22,3 +22,6 @@ Write a Python program to print the name of the working directory and what it co
 
 Write a Python program to display the current date and time.
 
+## Script 3 : redict_output.py
+
+Redirect the output of help function to a variable
