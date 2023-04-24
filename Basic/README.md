@@ -34,3 +34,6 @@ Python program that prints the calendar for a given month and year.
 
 Python program that difference between  data type of date.
 
+### Script 7 : prime_factor decomposition.py
+
+Python program that decompose a given number to his prime factors.

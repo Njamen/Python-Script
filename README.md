@@ -11,4 +11,6 @@ This project contains python scripts written to get used to python program. let 
 4. Script 4 : Redirect output.py
 5. Script 5 : month_calenda.py
 6. Script 6 : diffenre_type_date.py
+6. Script 7 : prime_factor decomposition.py
+
 
